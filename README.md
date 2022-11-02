@@ -1,2 +1,2 @@
-# Git-Tutorial
-Soon i'll update this
+Hi git welcome
+
